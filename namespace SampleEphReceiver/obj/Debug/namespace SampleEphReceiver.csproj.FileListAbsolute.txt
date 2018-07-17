@@ -1,0 +1,61 @@
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\namespace SampleEphReceiver.exe.config
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\namespace SampleEphReceiver.exe
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\namespace SampleEphReceiver.pdb
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.EventHubs.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.EventHubs.Processor.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.OData.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Newtonsoft.Json.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\System.Spatial.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.OData.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\Newtonsoft.Json.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\System.Spatial.xml
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\de\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\es\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\it\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\obj\Debug\namespace SampleEphReceiver.csprojResolveAssemblyReference.cache
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\obj\Debug\namespace SampleEphReceiver.exe
+c:\users\akaleti\documents\visual studio 2015\Projects\namespace SampleEphReceiver\namespace SampleEphReceiver\obj\Debug\namespace SampleEphReceiver.pdb
